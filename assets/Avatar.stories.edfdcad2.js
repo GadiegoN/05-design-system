@@ -1,0 +1,2 @@
+import{A as t}from"./index.ac73751f.js";import"./index.5207c6db.js";import"./iframe.b3fcaacc.js";import"./index.d2bcfcac.js";import"./jsx-runtime.ca5a29fe.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gadiegon.png",alt:"Gadiego Nogueira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WhithFallback"];export{p as Primary,c as WhithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.edfdcad2.js.map
